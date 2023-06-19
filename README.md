@@ -4,7 +4,7 @@
 <br>
 
 
-<img align="right" alt="Coding" width="400" src="C:\Users\Shruti\Desktop\Code-Clause Project-1\images">
+<img align="right" alt="Coding" width="300" height="250" src="https://github.com/shruti-sen2004/shruti-sen2004/assets/115914670/d51fffca-fea8-4199-b584-3aa82e4453fa">
 <br>- 👀 I’m interested in Both technical and non-technical activities</br>
 <br>- 🌱 I’m currently learning C, C++ ,Web Development and DSA</br>
 <br>- 💞️ I have coding expirence on Python and SQL.</br>
