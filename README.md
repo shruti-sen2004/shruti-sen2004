@@ -22,8 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shruti-sen-6b6924253/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="shruti sen" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/senshruti2020" target="blank"><img align="center" src="https://github.com/shruti-sen2004/shruti-sen2004/assets/115914670/e27122f0-3f09-493c-ad72-addb753359ee" alt="senshruti2020" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/senshruti2020?hr_r=1" target="blank"><img align="center" src="https://github.com/shruti-sen2004/shruti-sen2004/assets/115914670/c705e543-cf19-4590-a1f3-874d60e0e2aa" alt="@senshruti2020" height="30" width="30" /></a>
+<a href="https://codesandbox.io/u/senshruti2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="senshruti2020" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/senshruti2020?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@senshruti2020" height="30" width="30" /></a>
 </p>
 <br>
 <br>
