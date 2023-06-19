@@ -3,7 +3,7 @@
 <br>
 <br>
 
-
+(img align="right" alt="Coding" width="400" src=![about-img](https://github.com/shruti-sen2004/shruti-sen2004/assets/115914670/fc589600-b188-4801-a748-a375068743c9))
 - 👀 I’m interested in Both technical and non-technical activities
 - 🌱 I’m currently learning C, C++ ,Web Development and DSA
 - 💞️ I have coding expirence on Python and SQL.
