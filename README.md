@@ -5,7 +5,7 @@
 
 
 
-<img align="right" alt="Coding" width="250" height="230" src="https://github.com/shruti-sen2004/shruti-sen2004/assets/115914670/2ee5aa22-a9fa-4254-af34-38bf3ac61695">
+<img align="right" alt="Coding" width="240" height="230" src="https://github.com/shruti-sen2004/shruti-sen2004/assets/115914670/2ee5aa22-a9fa-4254-af34-38bf3ac61695">
 <br>- 👀 I’m interested in Both technical and non-technical activities</br>
 <br>- 🌱 I’m currently learning C, C++ ,Web Development and DSA</br>
 <br>- 💞️ I have coding expirence on Python and SQL.</br>
