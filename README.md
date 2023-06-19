@@ -5,10 +5,9 @@
 
 
 <img align="right" alt="Coding" width="400" src="C:\Users\Shruti\Desktop\Code-Clause Project-1\images">
-- 👀 I’m interested in Both technical and non-technical activities
-- 🌱 I’m currently learning C, C++ ,Web Development and DSA
-- 💞️ I have coding expirence on Python and SQL.
-- 📫 Would love to learn , expand and be creative
+<br>- 👀 I’m interested in Both technical and non-technical activities</br>
+<br>- 🌱 I’m currently learning C, C++ ,Web Development and DSA</br>
+<br>- 💞️ I have coding expirence on Python and SQL.</br>
 <br>
 <br>
 
