@@ -55,7 +55,7 @@
 <br>
 <br>
 
--My Hacktober 2022 & 2023 badge Collection:
+### My Hacktober 2022 & 2023 badge Collection:
 <br></br>
 [![@shrutisen's Holopin board](https://holopin.me/shrutisen)](https://holopin.io/@shrutisen)
 
