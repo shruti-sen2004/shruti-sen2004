@@ -52,6 +52,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shruti-sen2004&show_icons=true&locale=en" alt="shruti-sen2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shruti-sen2004&" alt="shruti-sen2004" /></p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shruti-sen2004&theme=synthwave-84&true&hide_border=true" />
+</div>
 <br>
 <br>
 
