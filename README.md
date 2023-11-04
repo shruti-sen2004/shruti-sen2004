@@ -12,7 +12,7 @@
 
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=shruti-sen2004&icon=0&color=1)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shruti-sen2004&label=Profile%20views&color=042337&style=flat" alt="shruti-sen2004" /> </p>
 <br>
 <br>
 
