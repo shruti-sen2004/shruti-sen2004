@@ -11,11 +11,12 @@
 <br>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shruti-sen2004&label=Profile%20views&color=0e75b6&style=flat" alt="shruti-sen2004" /> </p>
+
+[![](https://visitcount.itsvg.in/api?id=shruti-sen2004&icon=0&color=1)](https://visitcount.itsvg.in)
 <br>
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shruti-sen2004" alt="shruti-sen2004" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=shruti-sen2004&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 <br>
 <br>
          
@@ -47,11 +48,10 @@
 <br>
 
 <h3 align="left">My Github Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shruti-sen2004&show_icons=true&locale=en&layout=compact" alt="shruti-sen2004" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shruti-sen2004&show_icons=true&locale=en" alt="shruti-sen2004" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shruti-sen2004&" alt="shruti-sen2004" /></p>
+![](https://github-readme-stats.vercel.app/api?username=shruti-sen2004&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shruti-sen2004&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shruti-sen2004&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shruti-sen2004&theme=synthwave-84&true&hide_border=true" />
 </div>
