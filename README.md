@@ -4,9 +4,18 @@
 <br>          
 
 <img align="right" alt="Coding" width="240" height="230" src="https://github.com/shruti-sen2004/shruti-sen2004/assets/115914670/2ee5aa22-a9fa-4254-af34-38bf3ac61695">
-<br> - 👀 I’m interested in Both technical and non-technical activities</br>
-<br> - 🌱 I’m currently learning C, C++ ,Web Development and DSA</br>
-<br> - 💞️ I have coding expirence on Python and SQL</br>
+
+- 👀 I’m interested in **Both technical and non-technical activities**
+
+- 🌱 I’m currently perusing **B.TECH(CSE)** at **Netaji Subhas Engineering College**
+
+- ⚡ Participated in **HACKTOBERFEST 2022 & 2023**
+
+- 🏆 **RANK-22** , **Team - Idea Mate** ;at **HACKSQUAD 2023** organised by *NOVU* 
+
+- 📫 Contact me at **senshruti2020@gmail.com**
+
+- 💞️ In addition to computing, I love dancing and art.
 <br>
 <br>
 
