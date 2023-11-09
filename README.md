@@ -10,7 +10,7 @@
 
 - 👀 I’m interested in **Both technical and non-technical activities**
 
-- 🌱 I’m currently perusing **B.TECH(CSE)** at **Netaji Subhas Engineering College**
+- 🌱 I’m currently persuing **B.TECH(CSE)** at **Netaji Subhas Engineering College**
 
 - ⚡ Participated in **HACKTOBERFEST 2022 & 2023**
 
