@@ -15,7 +15,7 @@
 
 - 📫 Contact me at **senshruti2020@gmail.com**
 
-- 💞️ In addition to computing, I love dancing and art.
+- 💞️ In addition to computing, I love **dancing and art**
 <br>
 <br>
 
