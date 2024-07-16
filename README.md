@@ -80,10 +80,3 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
-### Github Stats by Quine :
-[![shruti-sen2004's GitHub | Stats](https://stats.quine.sh/shruti-sen2004/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=shruti-sen2004)
-[![shruti-sen2004's GitHub | Dependencies](https://stats.quine.sh/shruti-sen2004/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=shruti-sen2004)
-[![shruti-sen2004's GitHub | Topics Over Time](https://stats.quine.sh/shruti-sen2004/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=shruti-sen2004) 
-[![shruti-sen2004's GitHub | Languages Over Time](https://stats.quine.sh/shruti-sen2004/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=shruti-sen2004)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
