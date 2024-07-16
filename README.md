@@ -62,7 +62,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=shruti-sen2004&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&card_width=400px)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shruti-sen2004&theme=tokyonight&hide_border=false&card_width=400px)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shruti-sen2004&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=430px)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shruti-sen2004&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=425px)
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shruti-sen2004&theme=synthwave-84&true&hide_border=true" />
 </div>
