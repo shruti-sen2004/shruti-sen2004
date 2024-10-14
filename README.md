@@ -68,7 +68,7 @@
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
-### My Hacktober 2022 & 2023 badge Collection:
+### My Hacktober 2023 & 2024 badge Collection:
 <br></br>
 [![@shrutisen's Holopin board](https://holopin.me/shrutisen)](https://holopin.io/@shrutisen)
 
