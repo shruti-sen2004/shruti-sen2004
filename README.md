@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently persuing **B.TECH(CSE)** at **Netaji Subhash Engineering College**
 
-- ⚡ Participated in **HACKTOBERFEST 2022 & 2023**
+- ⚡ Participated in **HACKTOBERFEST 2022, 2023 & 2024**
 
 - 🏆 **RANK-22** , **Team - Idea Mate** ;at **HACKSQUAD 2023** organised by *NOVU* 
 
