@@ -1,0 +1,26 @@
+<svg width="1300px" height="1490px" viewBox="0 0 1827 2094" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Background Layer -->
+  <g id="background">
+    <image xlink:href="./assets/bg.png" x="0" y="0" width="1827" height="2094" />
+  </g>
+
+  <!-- Github trophies-->
+  <image x="1085" y="360" width="396" height="202" href="https://github-profile-trophy.vercel.app/?username=shruti-sen2004&amp;theme=onedark&amp;no-bg&amp;row=2&amp;column=4&amp;margin-w=15&amp;margin-h=15" />
+
+  <!-- Github stats-->
+  <image x="1090" y="660" width="396" height="202" href="https://github-readme-stats.vercel.app/api?username=shruti-sen2004&amp;show_icons=true&amp;theme=onedark&amp;count_private=true" />
+
+  <!-- Github streak-->
+  <image x="1090" y="930" width="396" height="202" href="https://github-readme-streak-stats.herokuapp.com/?user=shruti-sen2004&amp;theme=onedark&amp;round=50" />
+
+  <!-- Gif-->
+  <image href="./assets/girl.gif" x="256" y="1160" width="190" height="200"  transform="rotate(-13 1089 1020)"/>
+
+  <!-- Portfolio -->
+  <a href="https://shruti.is-a.dev/" target="_blank">
+    <rect
+      x="880" y="1730" width="330" height="50"
+      fill="transparent"
+      />
+  </a>
+</svg>
