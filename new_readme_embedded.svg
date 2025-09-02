@@ -583,7 +583,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   <g id="animated-element-2" transform="translate(1090, 660)">
     <svg width="396" height="202" viewBox="0 0 467 195" fill="none" role="img" aria-labelledby="descId">
         <title id="titleId">Shruti Sen's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 72, Total Commits in 2025 : 158, Total PRs: 60, Total Issues: 4, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 72, Total Commits in 2025 : 165, Total PRs: 60, Total Issues: 4, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -647,7 +647,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 132.76561148113777;
+        stroke-dashoffset: 132.24607800012456;
       }
     }
   
@@ -719,7 +719,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     </svg>
   
       <text class="stat  bold" x="25" y="12.5">Total Commits (2025):</text>
-      <text class="stat  bold" x="219.01" y="12.5" data-testid="commits">158</text>
+      <text class="stat  bold" x="219.01" y="12.5" data-testid="commits">165</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -794,7 +794,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
                 
                 <g transform="translate(82.5, 48)">
                     <text x="0" y="32" stroke-width="0" text-anchor="middle" fill="#E4BF7A" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="700" font-size="28px" font-style="normal" style="opacity: 0; animation: fadein 0.5s linear forwards 0.6s">
-                        961
+                        968
                     </text>
                 </g>
 
@@ -823,7 +823,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
                 
                 <g transform="translate(247.5, 145)">
                     <text x="0" y="21" stroke-width="0" text-anchor="middle" fill="#DF6D74" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="400" font-size="12px" font-style="normal" style="opacity: 0; animation: fadein 0.5s linear forwards 0.9s">
-                        Sep 2
+                        Aug 31 - Sep 1
                     </text>
                 </g>
 
@@ -840,7 +840,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
                 
                 <g transform="translate(247.5, 48)">
                     <text x="0" y="32" stroke-width="0" text-anchor="middle" fill="#8EB573" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="700" font-size="28px" font-style="normal" style="animation: currstreak 0.6s linear forwards">
-                        0
+                        2
                     </text>
                 </g>
 
