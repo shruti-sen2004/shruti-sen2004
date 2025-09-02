@@ -13,7 +13,7 @@
         </style>
         <defs>
             <clipPath id='outer_rectangle'>
-                <rect width='495' height='195' rx='15px'/>
+                <rect width='495' height='195' rx='15'/>
             </clipPath>
             <mask id='mask_out_ring_behind_fire'>
                 <rect width='495' height='195' fill='white'/>
@@ -23,7 +23,7 @@
         </defs>
         <g clip-path='url(#outer_rectangle)'>
             <g style='isolation: isolate'>
-                <rect stroke='#E4E2E2' fill='#282C34' rx='15px' x='0.5' y='0.5' width='494' height='194'/>
+                <rect stroke='#E4E2E2' fill='#282C34' rx='15' x='0.5' y='0.5' width='494' height='194'/>
             </g>
             <g style='isolation: isolate'>
                 <line x1='165' y1='28' x2='165' y2='170' vector-effect='non-scaling-stroke' stroke-width='1' stroke='#E4E2E2' stroke-linejoin='miter' stroke-linecap='square' stroke-miterlimit='3'/>
@@ -33,7 +33,7 @@
                 <!-- Total Contributions big number -->
                 <g transform='translate(82.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#E4BF7A' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.6s'>
-                        969
+                        971
                     </text>
                 </g>
 
@@ -47,7 +47,7 @@
                 <!-- Total Contributions range -->
                 <g transform='translate(82.5, 114)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#DF6D74' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.8s'>
-                        Oct 16, 2022 - Present
+                        Oct 15, 2022 - Present
                     </text>
                 </g>
             </g>
