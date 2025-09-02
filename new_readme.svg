@@ -16,7 +16,7 @@
   </g>
 
   <!-- Github stats-->
-  <!-- href="https://github-readme-stats.vercel.app/api?username=shruti-sen2004&show_icons=true&theme=onedark&count_private=true" -->
+  <!-- href="https://github-readme-stats.vercel.app/api?username=shruti-sen2004&show_icons=true&theme=onedark&card_width=10&hide_title=true&hide_border=true&border_radius=15" -->
   <g id="animated-element-2">
     <image
       href="./assets/github_stats.svg"
@@ -25,11 +25,11 @@
   </g>
 
   <!-- Github streak-->
-  <!-- href="https://github-readme-streak-stats.herokuapp.com/?user=shruti-sen2004&theme=onedark" -->
+  <!-- href="https://github-readme-streak-stats.herokuapp.com/?user=shruti-sen2004&theme=onedark&border_radius=15" -->
   <g id="animated-element-3">
     <image
       href="./assets/github_streak.svg"
-      x="1045" y="920" width="500" height="189"
+      x="1045" y="920" width="500" height="180"
     />
   </g>
 

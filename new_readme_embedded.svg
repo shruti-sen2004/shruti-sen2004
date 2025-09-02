@@ -581,9 +581,9 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
   
   <g id="animated-element-2" transform="translate(1050, 610)">
-    <svg width="490" height="290" viewBox="0 0 467 195" fill="none" role="img" aria-labelledby="descId">
+    <svg width="490" height="290" viewBox="0 0 437 165" fill="none" role="img" aria-labelledby="descId">
         <title id="titleId">Shruti Sen's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 72, Total Commits in 2025 : 165, Total PRs: 60, Total Issues: 4, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 72, Total Commits in 2025 : 166, Total PRs: 60, Total Issues: 4, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -647,7 +647,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 132.24607800012456;
+        stroke-dashoffset: 132.17267862820682;
       }
     }
   
@@ -677,19 +677,13 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
 
         
 
-        <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="466" fill="#282c34" stroke-opacity="1" />
+        <rect data-testid="card-bg" x="0.5" y="0.5" rx="15" height="99%" stroke="#e4e2e2" width="436" fill="#282c34" stroke-opacity="0" />
 
         
-      <g data-testid="card-title" transform="translate(25, 35)">
-        <g transform="translate(0, 0)">
-      <text x="0" y="0" class="header" data-testid="header">Shruti Sen's GitHub Stats</text>
-    </g>
-      </g>
-    
 
-        <g data-testid="main-card-body" transform="translate(0, 55)">
+        <g data-testid="main-card-body" transform="translate(0, 25)">
           
-    <g data-testid="rank-circle" transform="translate(390.5, 47.5)">
+    <g data-testid="rank-circle" transform="translate(367, 47.5)">
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
@@ -719,7 +713,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     </svg>
   
       <text class="stat  bold" x="25" y="12.5">Total Commits (2025):</text>
-      <text class="stat  bold" x="219.01" y="12.5" data-testid="commits">165</text>
+      <text class="stat  bold" x="219.01" y="12.5" data-testid="commits">166</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -760,7 +754,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
   
   <g id="animated-element-3" transform="translate(1045, 920)">
-    <svg style="isolation: isolate" viewBox="0 0 495 195" width="500" height="189" direction="ltr">
+    <svg style="isolation: isolate" viewBox="0 0 495 195" width="500" height="180" direction="ltr">
         <style>
             @keyframes currstreak {
                 0% { font-size: 3px; opacity: 0.2; }
@@ -774,7 +768,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </style>
         <defs>
             <clipPath id="outer_rectangle">
-                <rect width="495" height="195" rx="4.5" />
+                <rect width="495" height="195" rx="15px" />
             </clipPath>
             <mask id="mask_out_ring_behind_fire">
                 <rect width="495" height="195" fill="white" />
@@ -784,7 +778,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </defs>
         <g clip-path="url(#outer_rectangle)">
             <g style="isolation: isolate">
-                <rect stroke="#E4E2E2" fill="#282C34" rx="4.5" x="0.5" y="0.5" width="494" height="194" />
+                <rect stroke="#E4E2E2" fill="#282C34" rx="15px" x="0.5" y="0.5" width="494" height="194" />
             </g>
             <g style="isolation: isolate">
                 <line x1="165" y1="28" x2="165" y2="170" vector-effect="non-scaling-stroke" stroke-width="1" stroke="#E4E2E2" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" />
@@ -794,7 +788,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
                 
                 <g transform="translate(82.5, 48)">
                     <text x="0" y="32" stroke-width="0" text-anchor="middle" fill="#E4BF7A" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="700" font-size="28px" font-style="normal" style="opacity: 0; animation: fadein 0.5s linear forwards 0.6s">
-                        968
+                        969
                     </text>
                 </g>
 
@@ -823,7 +817,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
                 
                 <g transform="translate(247.5, 145)">
                     <text x="0" y="21" stroke-width="0" text-anchor="middle" fill="#DF6D74" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="400" font-size="12px" font-style="normal" style="opacity: 0; animation: fadein 0.5s linear forwards 0.9s">
-                        Aug 31 - Sep 1
+                        Aug 31 - Sep 2
                     </text>
                 </g>
 
@@ -840,7 +834,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
                 
                 <g transform="translate(247.5, 48)">
                     <text x="0" y="32" stroke-width="0" text-anchor="middle" fill="#8EB573" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="700" font-size="28px" font-style="normal" style="animation: currstreak 0.6s linear forwards">
-                        2
+                        3
                     </text>
                 </g>
 
