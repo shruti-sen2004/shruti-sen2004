@@ -3,15 +3,15 @@
 
   <!-- Background Layer -->
   <g id="background">
-    <image href="./assets/bg.png" x="0" y="0" width="1827" height="2094" />
+    <image href="./assets/bg-new.png" x="0" y="0" width="1827" height="2094" />
   </g>
 
   <!-- Github trophies-->
-  <!-- href="https://github-profile-trophy.vercel.app/?username=shruti-sen2004&theme=onedark&no-bg&row=2&column=4&margin-w=15&margin-h=15" -->
+  <!-- href="https://github-profile-trophy.vercel.app/?username=shruti-sen2004&theme=onedark&no-bg&row=2&column=4&margin-w=5&margin-h=5" -->
   <g id="animated-element-1">
     <image
       href="./assets/github_trophies.svg"
-      x="1085" y="360" width="396" height="202"
+      x="1045" y="340" width="500" height="250"
     />
   </g>
 
@@ -20,7 +20,7 @@
   <g id="animated-element-2">
     <image
       href="./assets/github_stats.svg"
-      x="1090" y="660" width="396" height="202"
+      x="1050" y="610" width="490" height="290"
     />
   </g>
 
@@ -29,7 +29,7 @@
   <g id="animated-element-3">
     <image
       href="./assets/github_streak.svg"
-      x="1090" y="930" width="396" height="202"
+      x="1045" y="920" width="500" height="189"
     />
   </g>
 
@@ -37,15 +37,15 @@
   <g id="animated-element-4">
     <image
       href="./assets/girl.gif"
-      x="256" y="1160" width="190" height="200" transform="rotate(-13 1089 1020)"
+      x="240" y="1190" width="190" height="200" transform="rotate(-13 1089 1020)"
     />
   </g>
 
-  <!-- Portfolio Link -->
+  <!-- Portfolio Link
   <a href="https://shruti.is-a.dev/" target="_blank">
     <rect
       x="880" y="1730" width="330" height="50"
       fill="transparent"
     />
-  </a>
+  </a> -->
 </svg>
