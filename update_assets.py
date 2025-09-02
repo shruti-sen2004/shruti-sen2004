@@ -56,7 +56,7 @@ def main():
     # Regex to find URL comments and their corresponding image hrefs
     # It captures the URL and the local path.
     pattern = re.compile(
-        r'<!--\s*(?:href=")?(https?://.*?)"?\s*-->.*?href="(\./assets/.*?)"',
+        r'<!--\s*(?:href=")?(https?://.*?)"?\s*-->.*?href="(\./assets/.*?)"',  # TODO: remove href
         re.DOTALL | re.IGNORECASE,
     )
 
