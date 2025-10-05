@@ -202,7 +202,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#e5c07b">Stars</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#e06c75">High Star</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#e06c75">75pt</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#e06c75">76pt</text>
           
     <style>
     @keyframes StarsRankAnimation {
@@ -210,7 +210,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 40px;
+        width: 41.6px;
       }
     }
     #Stars-rank-progress{
@@ -279,7 +279,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#e5c07b">PullRequest</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#e06c75">Hyper Puller</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#e06c75">60pt</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#e06c75">67pt</text>
           
     <style>
     @keyframes PullRequestRankAnimation {
@@ -287,7 +287,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 16px;
+        width: 27.200000000000003px;
       }
     }
     #PullRequest-rank-progress{
@@ -347,7 +347,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#e5c07b">Commits</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#e06c75">High Committer</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#e06c75">149pt</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#e06c75">163pt</text>
           
     <style>
     @keyframes CommitsRankAnimation {
@@ -355,7 +355,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 39.2px;
+        width: 50.4px;
       }
     }
     #Commits-rank-progress{
@@ -415,7 +415,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#e5c07b">Followers</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#e06c75">Dynamic User</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#e06c75">47pt</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#e06c75">48pt</text>
           
     <style>
     @keyframes FollowersRankAnimation {
@@ -423,7 +423,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 72px;
+        width: 74.66666666666667px;
       }
     }
     #Followers-rank-progress{
@@ -583,7 +583,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   <g id="animated-element-2" transform="translate(1050, 610)">
     <svg width="490" height="290" viewBox="0 0 437 165" fill="none" role="img" aria-labelledby="descId">
         <title id="titleId">Shruti Sen's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 75, Total Commits  (last year) : 149, Total PRs: 60, Total Issues: 4, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 76, Total Commits  (last year) : 163, Total PRs: 67, Total Issues: 4, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -647,7 +647,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 131.93560166154614;
+        stroke-dashoffset: 128.02193961965378;
       }
     }
   
@@ -703,7 +703,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     </svg>
   
       <text class="stat  bold" x="25" y="12.5">Total Stars Earned:</text>
-      <text class="stat  bold" x="219.01" y="12.5" data-testid="stars">75</text>
+      <text class="stat  bold" x="219.01" y="12.5" data-testid="stars">76</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -713,7 +713,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     </svg>
   
       <text class="stat  bold" x="25" y="12.5">Total Commits (last year):</text>
-      <text class="stat  bold" x="219.01" y="12.5" data-testid="commits">149</text>
+      <text class="stat  bold" x="219.01" y="12.5" data-testid="commits">163</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -723,7 +723,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     </svg>
   
       <text class="stat  bold" x="25" y="12.5">Total PRs:</text>
-      <text class="stat  bold" x="219.01" y="12.5" data-testid="prs">60</text>
+      <text class="stat  bold" x="219.01" y="12.5" data-testid="prs">67</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -788,7 +788,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
                 
                 <g transform="translate(82.5, 48)">
                     <text x="0" y="32" stroke-width="0" text-anchor="middle" fill="#E4BF7A" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="700" font-size="28px" font-style="normal" style="opacity: 0; animation: fadein 0.5s linear forwards 0.6s">
-                        971
+                        992
                     </text>
                 </g>
 
@@ -817,7 +817,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
                 
                 <g transform="translate(247.5, 145)">
                     <text x="0" y="21" stroke-width="0" text-anchor="middle" fill="#DF6D74" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="400" font-size="12px" font-style="normal" style="opacity: 0; animation: fadein 0.5s linear forwards 0.9s">
-                        Sep 28
+                        Oct 3 - Oct 4
                     </text>
                 </g>
 
@@ -834,7 +834,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
                 
                 <g transform="translate(247.5, 48)">
                     <text x="0" y="32" stroke-width="0" text-anchor="middle" fill="#8EB573" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="700" font-size="28px" font-style="normal" style="animation: currstreak 0.6s linear forwards">
-                        0
+                        2
                     </text>
                 </g>
 
@@ -843,7 +843,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
                 
                 <g transform="translate(412.5, 48)">
                     <text x="0" y="32" stroke-width="0" text-anchor="middle" fill="#E4BF7A" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="700" font-size="28px" font-style="normal" style="opacity: 0; animation: fadein 0.5s linear forwards 1.2s">
-                        25
+                        28
                     </text>
                 </g>
 
@@ -857,7 +857,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
                 
                 <g transform="translate(412.5, 114)">
                     <text x="0" y="32" stroke-width="0" text-anchor="middle" fill="#DF6D74" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="400" font-size="12px" font-style="normal" style="opacity: 0; animation: fadein 0.5s linear forwards 1.4s">
-                        Nov 7, 2023 - Dec 1, 2023
+                        Nov 7, 2023 - Dec 4, 2023
                     </text>
                 </g>
             </g>
