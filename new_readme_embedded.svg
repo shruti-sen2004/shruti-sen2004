@@ -604,7 +604,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   <g id="animated-element-2" transform="translate(1050, 610)">
     <svg width="490" height="290" viewBox="0 0 437 165" fill="none" role="img" aria-labelledby="descId">
         <title id="titleId">Shruti Sen's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 76, Total Commits  (last year) : 142, Total PRs: 67, Total Issues: 4, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 76, Total Commits  (last year) : 140, Total PRs: 67, Total Issues: 4, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -668,7 +668,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 129.55891840603604;
+        stroke-dashoffset: 129.71603559348105;
       }
     }
   
@@ -734,7 +734,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     </svg>
   
       <text class="stat  bold" x="25" y="12.5">Total Commits (last year):</text>
-      <text class="stat  bold" x="219.01" y="12.5" data-testid="commits">142</text>
+      <text class="stat  bold" x="219.01" y="12.5" data-testid="commits">140</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
